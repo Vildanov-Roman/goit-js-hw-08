@@ -42,4 +42,4 @@ gallery.addEventListener('click', event => {
 });
 
 
-// i tryed
+// i try
